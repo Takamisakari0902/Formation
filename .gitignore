@@ -6,6 +6,9 @@
 # See: https://github.com/github/gitignore/tree/main/Global
 #
 .utmp/
+# NuGetForUnity restored packages
+/Assets/Packages/
+/Assets/Packages.meta
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
